@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "2D21AA4DAD36F1A80677A399FA3ED13E",
+  "keywordClasses": [
+    {
+      "name": "com.openBrowser.openBrowser",
+      "keywordMethods": [
+        {
+          "name": "openNav",
+          "parameters": [
+            {
+              "name": "url",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

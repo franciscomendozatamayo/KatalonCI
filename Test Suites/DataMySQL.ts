@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DataMySQL</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>9f558ae0-eb35-4a1e-8c63-133cf0c200c7</testSuiteGuid>
+   <testCaseLink>
+      <guid>e7faf1ce-fb6a-4a88-8d0b-2736920a3f95</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Form/Form</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>de28b875-560b-4511-bceb-da6da61ac4db</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataBaseMySQL</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7b8f2f86-27cb-483b-ac88-c74c7aafb56f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de28b875-560b-4511-bceb-da6da61ac4db</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Nombre</value>
+         <variableId>23147320-b1d5-405a-b490-453d11f3eec4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de28b875-560b-4511-bceb-da6da61ac4db</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Apellido</value>
+         <variableId>87cd661b-952e-4567-a68a-8da8edff87a7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de28b875-560b-4511-bceb-da6da61ac4db</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>1c766fa5-f26c-4a55-b575-543cbb7d82dd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
