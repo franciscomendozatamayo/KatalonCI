@@ -48,5 +48,7 @@ WebUI.dragAndDropToObject(findTestObject('Object Repository/DragAndDrop/Capital_
 
 WebUI.delay(3)
 
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()
 

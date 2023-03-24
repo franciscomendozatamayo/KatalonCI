@@ -12,7 +12,7 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>1f98ecf8-0ad3-483c-88ef-8002d714a603</testSuiteGuid>
    <testCaseLink>
-      <guid>23f53843-feb7-4796-ad91-bb062f0721b1</guid>
+      <guid>5b0330be-e0a3-408e-8d07-20b13f0ad6bc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/DragAndDrop/DragAndDrop</testCaseId>
